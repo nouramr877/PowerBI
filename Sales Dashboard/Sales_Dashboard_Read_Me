@@ -1,12 +1,15 @@
 # Sales-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=f8fcbbb4-2416-4636-9f32-398185655152&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde
+### Dashboard Link :
+https://app.powerbi.com/reportEmbed?reportId=f8fcbbb4-2416-4636-9f32-398185655152&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde
 
-## Problem Statement
+## Dashboard Explanation
+This dashboard helps the Company understand their Sales better.
+1 - It helps the Company know Their Total Profit,sales and percentage of profit in specific month or year, 
+2 - It helps the Company know What is the best selling product? in specific year or month
+3 - It helps the Company know What is the best selling Category? in specific year or month
+4 - It helps the Company know percentage of payment methods which use to Buy
 
-This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
+![alt text](https://github.com/nouramr877/PowerBI/Sales-Dashboard/Sales-Dashboard.PNG?raw=true)
 
-Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
-
-Also since average delay in arrival & departure both is 15 minutes, thus they must try to reduce it.
 
