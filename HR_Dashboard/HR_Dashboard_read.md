@@ -1,4 +1,4 @@
-# Sales-Dashboard
+# HR-Dashboard
 
 ## Dashboard Link :
 https://app.powerbi.com/reportEmbed?reportId=b58203b4-1e80-447b-b421-586ef671aec0&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde
